@@ -151,8 +151,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/cardView"
         app:tabBackground="@drawable/tab_item_bg_selector"
-        app:tabIndicatorColor="@color/blue"
-        app:tabSelectedTextColor="@color/white">
+        app:tabIndicatorColor="@color/gray"
+        app:tabSelectedTextColor="@color/gray"
+        app:tabTextColor="@color/white">
 
         <com.google.android.material.tabs.TabItem
             android:layout_width="wrap_content"
